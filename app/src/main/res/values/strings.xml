@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherInfoApp</string>
+    <string name="enter_the_city_name">Enter the city name</string>
+    <string name="details">Details:</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="pressure">Pressure</string>
+    <string name="min_temp">Min Temp.</string>
+    <string name="max_temp">Max Temp.</string>
+    <string name="zmie_widok">Zmień widok</string>
+</resources>
